@@ -1,0 +1,19 @@
+#sharescreen{
+    border :1px solid black;
+    background-color: #414141;
+
+}
+
+#zone_chat strong {
+    color: white;
+    background-color: black;
+    padding: 2px;
+}
+
+.pointer{
+    position: absolute;
+    background: red;
+    width: 5px;
+    height: 5px;
+    z-index: 3;
+}
